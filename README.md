@@ -1,3 +1,3 @@
 # Personal Website
 
-## it's great!
+## it's kind of great!
