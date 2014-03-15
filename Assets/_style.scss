@@ -1,0 +1,88 @@
+   @font-face
+    {
+    font-family: Baron-neue;
+    src: url('https://dl.dropboxusercontent.com/u/15849681/baron%20neue/Baron%20Neue%20Normal%2050.otf');
+    }
+    
+   html {
+    background-color: #fffff;
+    width:100%;
+    overflow-x:hidden;
+    padding: 0;
+    margin:0 auto;
+    font-size:16px;
+    height: 1024px;
+  }
+
+   body{
+    font-family: "baron-neue", Futura;
+    font-size:62.5%; /* 1em=10px */
+    margin:0 auto;
+    width:100%;
+    color: white;
+    padding:0;
+    position: relative;
+    height: 1024px;
+    border: 1px solid black;
+   }
+
+   .good { 
+      width: 100%; 
+      margin: 0 auto; 
+      position: relative;
+      height: 100%;
+      background: url(../img/bg-img.svg) no-repeat left center fixed; 
+      -webkit-background-size: 50%;
+      -o-background-size: 50%;
+      background-size: 50%;
+      margin-left: 0;
+      opacity: 0.8;
+    }
+
+
+      
+
+
+
+   .lonGone {
+      width: 100%;
+      margin: 0 auto;
+      height: 30%;
+   }
+    .contain { width: 60%; float: right;}
+
+   h1, h3 { color: #2b1100; }
+   h1 { font-size: 6.2em;  }
+   .left { font-size: 0.5em; text-align: right; display: block; margin-right: 5%; margin-top: 1%; }
+
+   .links { width: 100%; display: block; text-align: center; margin: 0 auto;}
+   ul { padding-left: 0; margin: 0;  }
+   .links ul {  margin-left: 0; color: #2b1100; display: block; text-align: right; margin-right: 5%; margin-top: 1%;  }
+    li { display: block; font-size: 1em; font-family: courier new; opacity: 0.8; text-align: right; ; text-decoration: none; margin-bottom: 2px; }
+    li:first-child{
+      margin-bottom: 10px;
+    }
+    li:nth-child(2) {
+      text-decoration: underline;
+      margin-bottom: 5px;
+    }
+
+    a { 
+      cursor: pointer;  
+      text-decoration: none;
+      color: #2b1100;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:active {
+      text-decoration: none;
+      color: #2b1100;
+    }
+
+
+
+
+
+
+
