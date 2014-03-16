@@ -51,7 +51,7 @@
 
    .links { width: 100%; display: block; text-align: center; margin: 0 auto;}
    ul { padding-left: 0; margin: 0;  }
-   .links ul {  margin-left: 0; color: #2b1100; display: block; text-align: right; margin-right: 5%; margin-top: 1%;  }
+   .links ul {  margin-left: 0; color: #2b1100; display: block; text-align: right; margin-right: 5%; margin-top: 3%;  }
     li { display: block; font-size: 1em; font-family: courier new; opacity: 0.8; text-align: right; ; text-decoration: none; margin-bottom: 2px; }
     li:first-child{
       margin-bottom: 10px;
@@ -81,12 +81,7 @@
   }
 }
 
-@media only screen and (min-width: 720px) {
-  body {
-    width: 100%;
-    margin: 0 auto;
-  }
-}
+
 
 
 
